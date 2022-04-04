@@ -1,0 +1,20 @@
+turn on 268,631 through 735,814 86112
+toggle 549,969 through 612,991 89056
+toggle 553,268 through 689,432 134266
+turn off 817,668 through 889,897 134266
+toggle 801,544 through 858,556 135774
+toggle 615,729 through 832,951 233002
+turn off 427,477 through 958,948 137838
+turn on 164,49 through 852,946 756560
+turn on 542,449 through 774,776 832984
+turn off 923,196 through 980,446 832984
+toggle 90,310 through 718,846 1508530
+turn off 657,215 through 744,252 1505186
+turn off 800,239 through 811,712 1499498
+turn on 502,90 through 619,760 1578676
+toggle 649,512 through 862,844 1721200
+turn off 334,903 through 823,935 1705030
+turn off 630,233 through 839,445 1664544
+turn on 713,67 through 839,865 1766017
+turn on 932,50 through 982,411 1784479
+turn off 480,729 through 984,910 1716513
